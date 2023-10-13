@@ -81,6 +81,7 @@ In your ```README.md```, include:
    - Maintain code quality and ensure intuitive user interactions.
 4. **Additional Algorithm(s) Implementation**: 10% 
    - Implement two more graph traversal algorithms (for groups only).
+   Note: If you are working individually, you can skip this requirement. This means **1.** will be worth 60%.
 5. **Testing and Validation**: 20%
    - Validate algorithm’s correctness and efficiency through testing.
 
