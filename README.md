@@ -41,10 +41,10 @@ Ensure the virtual environment is active when running the project.
   - Define **start** and **end** nodes.
   - **Draw barriers** and **clear** them.
   - **Select** an algorithm to execute.
-  - **Reset** the grid or **clear** the previously found path, while retaining barriers.
+  - **Reset** the grid or **clear** the previously found path, while retaining barriers. Make sure you can run the algorithm again after clearing the path.
 - The pathfinding algorithm should **terminate once the start node finds the end node**.
 
-### Optional (For Groups Only)
+### [Optional] (For Groups Only)
 
 - Implement two additional graph traversal algorithms.
 
@@ -52,7 +52,7 @@ Ensure the virtual environment is active when running the project.
 
 Feel free to modify the given template code according to your project needs.
 
-### Additional Features (Bonus Points)
+### [Optional] Additional Features (Bonus Points)
 
 Features for bonus points (up to a maximum) might include:
 - **Algorithm Speed Control**: Enable users to control visualization speed.
@@ -76,7 +76,7 @@ In your ```README.md```, include:
 1. **Algorithm Implementation and Visualization**: 50%
    - Effective implementation and visualization of **Dijkstra and A* algorithms**.
 2. **Statistics Display**: 5%
-   - Accurate display of pathfinding statistics.
+   - Accurate display of pathfinding statistics. Statics include at least the time taken to find the path and the number of nodes visited. Please include any other statistics you find relevant. At least two more statistics are required for groups.
 3. **Code Quality and User Interaction**: 15%
    - Maintain code quality and ensure intuitive user interactions.
 4. **Additional Algorithm(s) Implementation**: 10% 
