@@ -101,4 +101,4 @@ In your ```README.md```, include:
 
 For further guidance on implementing pathfinding algorithms, consider watching the following tutorial: [Coding Train A* Algorithm Tutorial](https://www.youtube.com/watch?v=JtiK0DOeI4A). This resource may provide additional insights or methods for executing pathfinding algorithms in visual formats.
 
-**Note:** Plagiarism of code from this tutorial will result in a grade of 0 for this assignment. Please ensure that you are not copying code from this tutorial, and that you are implementing the algorithms yourself, focusing particularly on the handling of a `node`.
+**Note:** Plagiarism of code from this tutorial will result in a grade of 0 for this assignment. Please ensure that you are not copying code from this tutorial, and that you are implementing the algorithms yourself.
