@@ -95,4 +95,3 @@ In your ```README.md```, include:
 - Instructions on code execution.
 - [If applicable] Methodology and findings from the bonus challenge of beating Python’s built-in algorithms.
 - Any extra information you would like to share with me.
-```
