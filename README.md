@@ -47,7 +47,7 @@ Please check out the demonstration video for a better understanding of the core 
 
 ### [Optional] Additional Features (For Groups of 2 or 3)
 
-- Implement **one (groups of 2) or two (groups of 2)** additional graph traversal algorithms.
+- Implement **one (groups of 2) or two (groups of 3)** additional graph traversal algorithms.
 - Display pathfinding statistics. They must at least include:
   - Time taken to traverse.
   - How many nodes were traversed (space complexity).
