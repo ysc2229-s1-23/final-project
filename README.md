@@ -95,9 +95,10 @@ In your ```README.md```, include:
 - Instructions on code execution.
 - [If applicable] Methodology and findings from the bonus challenge of beating Python’s built-in algorithms.
 - Any extra information you would like to share with me.
+- **List the names of all group members, or your own name if you are a solo participant.**
 
 ### Tutorial
 
 For further guidance on implementing pathfinding algorithms, consider watching the following tutorial: [Coding Train A* Algorithm Tutorial](https://www.youtube.com/watch?v=JtiK0DOeI4A). This resource may provide additional insights or methods for executing pathfinding algorithms in visual formats.
 
-Note: Plagarism of code from this tutorial will result in a grade of 0 for this assignment. Please ensure that you are not copying code from this tutorial, and that you are implementing the algorithms yourself.
+**Note:** Plagiarism of code from this tutorial will result in a grade of 0 for this assignment. Please ensure that you are not copying code from this tutorial, and that you are implementing the algorithms yourself, focusing particularly on the handling of a `node`.
